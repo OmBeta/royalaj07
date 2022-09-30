@@ -143,7 +143,7 @@ for a long time.
 
 You can enjoy smooth one-click deploys to the major cloud providers.
 
-- [Heroku](https://github.com/OmBeta/royalaj07/Deploy-to-heroku)
+- [Heroku](href="https://heroku.com/deploy?template=https://github.com/OmBeta/royalaj07">)
 - [Digital Ocean](https://github.com/aahnik/tgcf/wiki/Deploy-to-Digital-Ocean)
 - [Gitpod](https://github.com/aahnik/tgcf/wiki/Run-for-free-on-Gitpod")
 - [Python Anywhere](https://github.com/aahnik/tgcf/wiki/Run-on-PythonAnywhere)
